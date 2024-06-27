@@ -1,6 +1,6 @@
 # Awesome-UPA
 
-## Developer Resource
+## Developer resource
 
 - [UPA Docs](https://docs.nebra.one/): your one-stop destination to develop with NEBRA UPA
 - [Gas Calculator](https://gas.nebra.one/): calculate how much gas you saved 
